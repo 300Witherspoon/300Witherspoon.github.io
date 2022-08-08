@@ -4,3 +4,9 @@ body{
     margin: 0;
     background-color: cadetblue;
 }
+h1{
+    margin: auto;
+}
+.header{
+    margin: auto;
+}
